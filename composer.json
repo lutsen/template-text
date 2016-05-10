@@ -13,6 +13,6 @@
 		}
 	],
 	"require": {
-		"lagan/template-installer-plugin": "dev-master"
+		"lagan/template-installer-plugin": "*"
 	}
 }
