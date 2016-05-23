@@ -1,8 +1,8 @@
 {
-	"name": "lagan/template-text",
+	"name": "lagan/template-upload",
 	"type": "lagan-template",
-	"description": "Template for Lagan properties that require text input.",
-	"keywords": ["lagan","text","property","template"],
+	"description": "Template for Lagan upload properties.",
+	"keywords": ["lagan","file","upload","property","template"],
 	"license": "MIT",
 	"authors": [
 		{
